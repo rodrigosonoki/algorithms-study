@@ -1,0 +1,8 @@
+{
+  "name": "algorithms-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rodrigosonoki/algorithms-study.git",
+  "author": "rodrigosonoki <rosonoki@gmail.com>",
+  "license": "MIT"
+}
